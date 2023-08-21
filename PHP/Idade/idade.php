@@ -19,7 +19,7 @@
     echo  "<br>"
     echo "Sua idade: ".idade($_GET['datanascto']);
     echo "<br><br>";
-    echo "<a href='idade.php>Voltar</a>"
+    echo "<a href='idade.php>Voltar</a>";
     ?>
 
     
