@@ -20,14 +20,21 @@
         <button type="submit">Execute</button>
     </form>
     <div id="dreusltado">
+
         ...Resultado...
         <?php
-        inumero = $_GET['numero'];
-        $acao = $_GET['acao'];
+       function parimpar ($numero) {
+        if((numero % 2)== 0) {
+            return "Número:  $numero é Par";
+        } else {
+            return "Número: $numero é Ímpar"
+        }
 
-        echo $_GET['numero'];
-        echo "<br>";
-        echo $_GET['acao'];
+        function tabuada ($numero) {
+            $resultado = "";
+            for ()
+        }
+       }
         ?>
     </div>
 </body>
